@@ -1,0 +1,1 @@
+Code used to produce the figures in the paper "The joint effects of planetary $\beta$, topography and friction on baroclinic instability in a two-layer QG model" by Sterl et al. (2025), submitted to Journal of Fluid Mechanics.
